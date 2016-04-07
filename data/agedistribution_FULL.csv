@@ -1,0 +1,17 @@
+Male,,,,Natal population,,,,Rearing population,,
+Age class,Number in age class,Mortality %,Density dependent R,Natal mature,Natal migrate,Natal juvenile,Natal reside,Rearing migrate,Rearing reside,Rearing stray
+0,40,98,0.5,1,0,0,0,0.95,0.01,0.04
+1,10,20,0.5,0.2,0.1,0.7,0,0.95,0.01,0.04
+2,10,20,0.5,0.7,0.3,0,0,0.95,0.01,0.04
+3,1,20,0.5,0,1,0,0,0.95,0.01,0.04
+4,2,20,0.5,0,1,0,0,0.95,0.01,0.04
+5,1,50,0.5,0,1,0,0,0.95,0.01,0.04
+,,,,,,,,,,
+Female,,,,,,,,,,
+Age class,Number in age class,Mortality %,Density dependent R,Female mature prob,Female migrate prob,Female juvenile prob,Natal Residency prob,Rearing Residency prob,Rearing Straying prob,Rearing migrate prob
+0,40,98,0.5,1,0,0,,,,
+1,10,20,0.5,0.05,0,0.95,,,,
+2,10,20,0.5,0.3,0.7,0,,,,
+3,1,20,0.5,0,1,0,,,,
+4,2,20,0.5,0,1,0,,,,
+5,1,50,0.5,0,1,0,,,,

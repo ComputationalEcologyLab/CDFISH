@@ -1,0 +1,4 @@
+xyfilename,agefilename,CDMatrix,mcruns,looptime,nthfile_choice,nthfile_list,nthfile_seq,matemoveno,matemovethresh,Freplace,Mreplace,reproage,dispmoveno,dispmovethresh,residency,straying,offno,lmbda,Femalepercent,birthmortperc,agemortperc,equalsexratio,muterate,loci,alleles,intgenesans,allefreqfilename,cdevolveans,burningen,Fitness_AA,Fitness_Aa,Fitness_aa
+cdfish_test_Nas.csv,N,cdfish_test.cd,1,100,list,0|4|10,1,4,80000000,N,Y,0,7,180157.2|358531.2,10|10|10|10,10|10|10|10,2,8,50,0,100,N,0.0005,3,2,random,N,1,0,fitval_n100_s0.txt,fitval_50.txt,fitval_n0_s100.txt
+cdfish_test.xy,N,cdfish_test.cd,2,25,Sequence,0|4,1,4,80000000,N,Y,0,2,max,10|10|10|10,10|10|10|10,2,8,50,0,100,Y,0,2,2,random,N,1,0,fitval_n100_s0.txt,fitval_50.txt,fitval_n0_s100.txt
+cdfish_test.xy,agedistribution.csv,cdfish_test.cd,2,25,Sequence,0|4|10,1,4,80000000,N,Y,0,7,180157.2|358531.2,10|10|10|10,10|10|10|10,2,8,50,0,100,N,0.0005,3,2,random,N,N,2,fitval_n100_s0.txt,fitval_50.txt,fitval_n0_s100.txt
